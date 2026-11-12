@@ -15,11 +15,11 @@ A central entry point to OctoAcme's project management guidance. Use these docum
 
 ## Process summary
 
-OctoAcme follows an iterative, customer-focused lifecycle. During **initiation**, the team validates the business need, identifies stakeholders and champions, defines measurable outcomes and initial risks, and makes a go/no-go decision before planning. **Planning** turns approved work into shippable backlog items with acceptance criteria and estimates, while aligning the Definition of Done, dependencies, milestones, and release plan.
+OctoAcme follows an iterative, customer-focused lifecycle. During initiation, the team validates the business need, identifies stakeholders and champions, defines measurable outcomes and initial risks, and makes a go/no-go decision before planning. Planning turns approved work into shippable backlog items with acceptance criteria and estimates, while aligning the Definition of Done, dependencies, milestones, and release plan.
 
-In **execution**, teams track work on a shared project board, deliver and review small changes, test continuously, and monitor progress against success measures. Regular team and stakeholder communication keeps progress, blockers, risks, and decisions visible; issues are escalated from the team through the PM and Product Lead to the sponsor when needed. **Risk management** is ongoing: risks are assessed, assigned owners and mitigations, and reviewed regularly.
+In execution, teams track work on a shared project board, deliver and review small changes, test continuously, and monitor progress against success measures. Regular team and stakeholder communication keeps progress, blockers, risks, and decisions visible; issues are escalated from the team through the PM and Product Lead to the sponsor when needed. Risk management is ongoing: risks are assessed, assigned owners and mitigations, and reviewed regularly.
 
-For **release and deployment**, OctoAcme expects acceptance criteria to be met, CI and security checks to pass, release notes and rollback plans to be ready, and smoke tests and post-deployment verification to be completed. Teams communicate releases to stakeholders and respond to failures through incident response and rollback as appropriate. After sprints, releases, milestones, or incidents, **retrospectives** capture learnings and produce a small number of owned, trackable improvement actions.
+For release and deployment, OctoAcme expects acceptance criteria to be met, CI and security checks to pass, release notes and rollback plans to be ready, and smoke tests and post-deployment verification to be completed. Teams communicate releases to stakeholders and respond to failures through incident response and rollback as appropriate. After sprints, releases, milestones, or incidents, retrospectives capture learnings and produce a small number of owned, trackable improvement actions.
 
 ## Using these docs
 
